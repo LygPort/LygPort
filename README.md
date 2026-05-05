@@ -1,4 +1,4 @@
-# Hi, I'm zLyg 👋
+# Hi, I'm LygPort 👋
 
 ### 👨‍💻 Full Stack Developer & Plugin Creator
 I specialize in building high-performance systems, focusing on clean code and minimalist design. 
