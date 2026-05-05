@@ -22,7 +22,7 @@ I specialize in building high-performance systems, focusing on clean code and mi
 
 ### 📊 GitHub Stats
 
-![LygPort GitHub stats](https://github-readme-stats.vercel.app/api?username=LygPort&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff)
+[![LygPort GitHub stats](https://github-readme-stats.vercel.app/api?LygPort=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LygPort&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9f9f9f)
 
